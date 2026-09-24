@@ -1,43 +1,15 @@
-<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/header.svg" width="100%" alt="Glass Banner">
+<img src="header.svg" width="100%" alt="Glass Banner">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/about.svg" width="100%" alt="Sleek About">
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/skills.svg" width="100%" alt="Sleek Stack">
-
-<br/>
-
-<img src="https://ryme.md/api/render/sleek-github-stats?u=prabaher&bg=000000&fg=ff0000&accent=fff700&muted=8282e3&dur=17" width="100%" alt="Sleek GitHub">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/footer.svg" width="100%" alt="Sleek Wave">
-
-<!-- 🌌 Animated Header -->
-
-<img width="100%" src="https://git-hub-three-iota.vercel.app" />
-<img width="100%" src="https://git-hub-three-iota.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=PRABAHER++J&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
-
 <!-- ⚡ Animated Typing -->
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Computer+Vision+%26+Machine+Learning+Enthusiast;Building+Real+Projects%2C+Not+Just+Tutorials+%F0%9F%94%A5;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+SQL;Computer+Vision+%26+Machine+Learning+%F0%9F%A7%A0;Building+Real+Projects%2C+Not+Just+Tutorials" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<a href="https://github.com/prabaher">
-<img src="https://komarev.com/ghpvc/?username=prabaher&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
-</a>
-<a href="https://github.com/prabaher?tab=followers">
-<img src="https://img.shields.io/github/followers/prabaher?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
-</a>
-<a href="https://github.com/prabaher?tab=repositories">
-<img src="https://img.shields.io/github/stars/prabaher?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=f59e0b" />
-</a>
 
 </div>
 
@@ -62,29 +34,6 @@ I enjoy working at the intersection of:
 🗄️ SQL & Databases
 
 ⚙️ APIs, Deployment & Automation
-
-class Prabaher:
-
-    def __init__(self):
-        self.name = "Prabaher J"
-        self.role = "AI & Software Development Student"
-        self.department = "Artificial Intelligence & Data Science"
-        self.year = "3rd Year"
-        self.location = "Coimbatore, India 🇮🇳"
-
-    @property
-    def interests(self):
-        return [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Full Stack Development",
-            "Software Development"
-        ]
-
-    @property
-    def mindset(self):
-        return "Learn → Build → Test → Improve 🚀"
 
 <br clear="right"/>
 
@@ -131,7 +80,7 @@ Deploying projects using Vercel & Render
 
 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&perline=6" />
 
 🌐 Web Development
 
@@ -143,7 +92,7 @@ Deploying projects using Vercel & Render
 
 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 🤖 AI / Data
 
@@ -151,9 +100,14 @@ Deploying projects using Vercel & Render
 
 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=8" />
 
 </div>
+
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=prabaher&bg=000000&fg=ff0000&accent=fff700&muted=8282e3&dur=17" width="100%" alt="Sleek GitHub">
+
+<br/>
 
 🚀 Featured Projects
 
@@ -234,14 +188,6 @@ HTML • CSS • JavaScript
 
 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prabaher&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabaher&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -315,6 +261,10 @@ HTML • CSS • JavaScript
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,35:1e1b4b,70:0f172a,100:020617&height=130&section=footer&animation=twinkling" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<img src="footer.svg" width="100%" alt="Glass Banner">
 
 </div>
