@@ -1,3 +1,21 @@
+<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/header.svg" width="100%" alt="Sleek Hero">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/about.svg" width="100%" alt="Sleek About">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br/>
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=prabaher&bg=000000&fg=ff0000&accent=fff700&muted=8282e3&dur=17" width="100%" alt="Sleek GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/footer.svg" width="100%" alt="Sleek Wave">
+
 <div align="center">
 
 <!-- 🌌 Animated Header -->
