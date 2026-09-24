@@ -2,7 +2,7 @@
 
 <!-- 🌌 Animated Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e1b4b,100:312e81&height=220&section=header&text=PRABAHER%20J&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="git-hub-three-iota.vercel.app" />
 
 <!-- ⚡ Animated Typing -->
 
