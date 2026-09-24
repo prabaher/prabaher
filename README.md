@@ -16,8 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/prabaher/prabaher/main/footer.svg" width="100%" alt="Sleek Wave">
 
-<div align="center">
-
 <!-- 🌌 Animated Header -->
 
 <img width="100%" src="https://git-hub-three-iota.vercel.app" />
