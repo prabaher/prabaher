@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/header.svg" width="100%" alt="Sleek Hero">
+<img src="https://raw.githubusercontent.com/prabaher/prabaher/main/header.svg" width="100%" alt="Glass Banner">
 
 <br/>
 
