@@ -2,8 +2,8 @@
 
 <!-- 🌌 Animated Header -->
 
-<img width="100%" src="git-hub-three-iota.vercel.app" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=PRABAHER++J&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://git-hub-three-iota.vercel.app" />
+<img width="100%" src="https://git-hub-three-iota.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=PRABAHER++J&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 
 <!-- ⚡ Animated Typing -->
 
